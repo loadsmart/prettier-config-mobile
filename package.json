@@ -1,0 +1,12 @@
+{
+  "name": "@loadsmart/prettier-config-mobile",
+  "version": "1.0.0",
+  "description": "Loadsmart's base Prettier config for Mobile projects in React Native",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loadsmart/prettier-config-mobile.git"
+  },
+  "author": "Gustavo Barbosa <gustavo@loadsmart.com>",
+  "license": "MIT"
+}
